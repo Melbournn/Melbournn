@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning some crazy stuff
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 Here's how you can reach me: nurgissa.sultanmakhmutuly@nu.edu.kz
-- 😄 Pronouns: mysyqlover
 - ⚡ Fun fact: nevermind
 
 <!---
