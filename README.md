@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Melbournn
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning some crazy stuff
-- 💞️ Looking forward to collaborate on ML projects
+- 👀 I’m interested in Natural Language Processing
+- 🌱 I’m currently looking forward to collaborate on NLP projects
 - 📫 Here's how you can reach me: nurgissa.sultanmakhmutuly@nu.edu.kz
 - ⚡ Fun fact: nevermind
 
