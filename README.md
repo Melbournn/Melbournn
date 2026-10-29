@@ -20,28 +20,28 @@
                             L;0f1i1;,,,,:;iii1i:,,,:i11tttffG08L                                       
                              8GL1ifi,,,;fLCLG00CLffft1tt11fi;011                                       
                              L8fft11ffLCCCLLCGGGGCCf11iiiiC,.,:t                                       
-                              G81t1i1ffLCCfLLGGGCLftti;;;if...f                                        Nurgissa (Melbournn) ----------------------------------
-                               10ii1111tti;i;i1tft111i;;;;f...;                                        . OS: ............................ Linux, Windows
-                                ;L1;;;;::,,,,,,,,,::;;:::;tt..:                                        . Uptime: .............................. 22 years
-                                  L;:::,,.......,,::::::;iift:ti1,                                     . Host: .. Nazarbayev University / DevHouse / Ramzur Systems
-                                  it;:::,,,,,,,,,::;;;;;;i11188G888888Gfi                              . Kernel: ........................ AI/ML Engineer
-                               :1GCii;;::;:::::::;;;;;;i11t;C888Cf888888888Gi                          . About: ......... NLP, LLMs, multi-agent systems
-                           CG00888fii;;;:;;::::;;;;;;11111;t8G808LC88G08fCf8888888CC                   . IDE: ......................... VS Code, PyCharm
-                        C88G0888G10;i;;;;;:::::::;;i1111i:f80f8f80t08008f0f88888888888                 . LLM/CLI: .. ChatGPT, Claude, Claude Code, Codex
-                      088Gf08881t0CL:i;;;iii;;:;;ii1iii;:L00Gt8108fL80G0GGf8080C088G0888               . Dev: .............................. GitHub, Git
+                              G81t1i1ffLCCfLLGGGCLftti;;;if...f                                        Nurgissa (Melbournn)
+                               10ii1111tti;i;i1tft111i;;;;f...;                                        . OS: ---- Linux, Windows
+                                ;L1;;;;::,,,,,,,,,::;;:::;tt..:                                        . Uptime:  22 years
+                                  L;:::,,.......,,::::::;iift:ti1,                                     . Host: -- Nazarbayev University / DevHouse / Ramzur Systems
+                                  it;:::,,,,,,,,,::;;;;;;i11188G888888Gfi                              . Kernel:  AI/ML Engineer
+                               :1GCii;;::;:::::::;;;;;;i11t;C888Cf888888888Gi                          . About: - NLP, LLMs, multi-agent systems
+                           CG00888fii;;;:;;::::;;;;;;11111;t8G808LC88G08fCf8888888CC                   . IDE: --- VS Code, PyCharm
+                        C88G0888G10;i;;;;;:::::::;;i1111i:f80f8f80t08008f0f88888888888                 . LLM/CLI: ChatGPT, Claude, Claude Code, Codex
+                      088Gf08881t0CL:i;;;iii;;:;;ii1iii;:L00Gt8108fL80G0GGf8080C088G0888               . Dev: --- GitHub, Git
                  8888880fff888tiG8i8f:;;;iiiiiiiiiiii;:i0000Lt8i00Lt80GGGLC00CL080f088088              
-            L8888888888GCff08fi100iG8C::;;;;iiiiiiii:;C8000GLf0i00C100CLCfGCLLG0Ct0GLC0088i            . Languages.Programming: ............ Python, C++
-          8888888888880CCG0801iCGGiCCG0i::;;i1111i;;f00G00CGfC0i00G1C8LLCfCLLGGL1CttLGGG088            . Languages.Computer: ............... SQL, Docker
-         8888G08888G88GCC008L11GLGtiCCG0C11111ttttLG00GG0G0CLC0;80Gt18LLfLLLCGL1t1fCLLC08008           . Languages.Real: ...... English, Kazakh, Russian
+            L8888888888GCff08fi100iG8C::;;;;iiiiiiii:;C8000GLf0i00C100CLCfGCLLG0Ct0GLC0088i            . Languages.Programming: Python, C++
+          8888888888880CCG0801iCGGiCCG0i::;;i1111i;;f00G00CGfC0i00G1C8LLCfCLLGGL1CttLGGG088            . Languages.Computer: -- SQL, Docker
+         8888G08888G88GCC008L11GLGtiCCG0C11111ttttLG00GG0G0CLC0;80Gt18LLfLLLCGL1t1fCLLC08008           . Languages.Real: ------ English, Kazakh, Russian
         8888880fG880C80CG000ttL0fC0itLG8GCCCLLftfL000GC0G08GCCGi80GGi0GttCCGGfi1tCLLCGCLtL081          
-       888888888tf88fC8CG08CfLGGCL0ff0CC88GCCLLGG080LCG0C00GGCG180G0fL8iLCC0titLCCCCt1i1CGG08          . Hobbies.Software: .. LLMs, RAG, AI Agents, LangGraph, LangChain
-      G8888GfL088f;88;0GG00LG0000L0CC08ff888000000CLGL0GCGGGG0CfG0GGGt0ifffi;tCGCL1i1fLCLLGG8C         . Hobbies.Hardware: ........ Mechanical keyboards
-      8888888Ct1f8L:00t0L0GG00808C00G8881f8800G00CLCLL0LCGCGG0CLL0GGGCf1;1i:fCGfiifCCLffLLCGG8         . Hobbies.Lifeware: .. Watches, Animated Movies, Tea, 8-Pool, FIFA
+       888888888tf88fC8CG08CfLGGCL0ff0CC88GCCLLGG080LCG0C00GGCG180G0fL8iLCC0titLCCCCt1i1CGG08          . Hobbies.Software: LLMs, RAG, AI Agents, LangGraph, LangChain
+      G8888GfL088f;88;0GG00LG0000L0CC08ff888000000CLGL0GCGGGG0CfG0GGGt0ifffi;tCGCL1i1fLCLLGG8C         . Hobbies.Hardware: Mechanical keyboards
+      8888888Ct1f8L:00t0L0GG00808C00G8881f8800G00CLCLL0LCGCGG0CLL0GGGCf1;1i:fCGfiifCCLffLLCGG8         . Hobbies.Lifeware: Watches, Animated Movies, Tea, 8-Pool, FIFA
      088800GG00Lt1fL;GG0f0C000008CG8G000CiC0000GCCCLt00fLCCGCGLCt0GCCGtfi;,LGf1tLCCLffLLLLLCGG8        
-     88880GGCCC0Gffff:GCi0L000000LG0GG0G0ttC0GGCLGCtt0CfLCCGCGLLLi8tCG1t1,tLtfCGCLfLLLfLfffC0888       - Contact: +7 771 255 8285
+     88880GGCCC0Gffff:GCi0L000000LG0GG0G0ttC0GGCLGCtt0CfLCCGCGLLLi8tCG1t1,tLtfCGCLfLLLfLfffC0888       - Contact: ------ +7 771 255 8285
     i800G000G0GL80tfGt:8:0fGCGGG0f0GGGGG0LtLG0CCLGCiC0LfCCCGGGLf0:C0i0L;1iCCGGCCCLLLLLLLLGGCLfL88      . Email.Personal: nurgissa.sultanmakhmutuly@nu.edu.kz
-    880GCCLCG000L08C10:L1L1fLLCCGL8C0GGG0GfLGGCLLCfi00fLGGLGCGCf0f;8f;8;it0GGCCCCCCLLLCGGLttLG0G@      . LinkedIn: https://www.linkedin.com/in/sultannyn-balasy/
-    8888800GCCCG0C080tC1GtitfLLGCG0LG0GG00CLCGCfLfit0GfCGGfGCCCf0Ct18iff:LCCCCCCCCCCCCCLffCGG0088f     . Telegram: @mysyqlover
+    880GCCLCG000L08C10:L1L1fLLCCGL8C0GGG0GfLGGCLLCfi00fLGGLGCGCf0f;8f;8;it0GGCCCCCCLLLCGGLttLG0G@      . LinkedIn: ----- https://www.linkedin.com/in/sultannyn-balasy/
+    8888800GCCCG0C080tC1GtitfLLGCG0LG0GG00CLCGCfLfit0GfCGGfGCCCf0Ct18iff:LCCCCCCCCCCCCCLffCGG0088f     . Telegram: ----- @mysyqlover
    18GLLLCG0800GG0CG08fLCt;tfLLLC0LLGGGGG0GLGLLfLt1L0GfCGGfCGCCfCLC1L0iL:fLCCCCCCLLCCCLCGGGGG00888     
    88880GLftfC0GGGCGGG8fGt:ffLLC0fCLCGCGGG0GCLffft1C0CtLGCCLGLLffLLL1GCt,1ffLLCCGCGGGGGGGG0GG00888     
    888888888GtfLLCCLCG0CLt,fffL0tfLLLCCGGG00LfffLt1C8LtfCCCfLLLffLfLffGL,:LtLCCGGG00GGCCLft11111tfi    
