@@ -2,55 +2,65 @@
 
 <!--
 ```text
-                                                                                       
-                            ;11tfLGLCLf11fft1                                          
-                          0GLtii;;;;::::::;1fCf                                        
-                        G8tii;;;::::::::;;;;;;ifL                                      
-                       GCi;::::::::::::::::;:::;;tL:                                   
-                      1fi;::::1ti;;;;::::,::,:::::;1L                                  
-                      0;;:::;;ftLLffti:,,,,,,,,,,::;iG                                 
-                     Cf;:::::,,,:;i;:,,,,,,,,,:,,,::;18                                
-                     0;;:,,,,,,,,.,:..,,,,,,..;,.,,:;i0                                
-                     8;::,,,,,,,,,G8C;,,,,,,,itft,,,,1                                 
-                     0f:,1i::::,;t1ft1t;:;fGCGCLCi,,,i1                                
-                      0;:0CCLLfii,,::,:tf:,;1tttff1tiL                                 
-                       G:Gft1i::;::;i;;;:,,,ii1tft088C                                 
-                        G0L1t1,,,;tffCGLi;itttfttf10Ci                                 Nurgissa (Melbournn) ----------------------------------
-                         8ff11ttfCGCLG000GCt11ii1t.,;                                  . OS: ............................ Linux, Windows
-                         ;81t11fLLCfLLGGGLft1i;;t;..t                                  . Uptime: .............................. 22 years
-                           0iiiiii;:;::iiiiii;;;i1..:                                  . Host: .. Nazarbayev University / DevHouse / Ramzur Systems
-                            ii:::,,.,..,,,:::::;;ti.:                                  . Kernel: ........................ AI/ML Engineer
-                             L:::,,.,...,,:::::;i1108088G1;                            . About: ......... NLP, LLMs, multi-agent systems
-                          ,;f1i;;:::,,,,:;;;;;i11ii888f888888881                       . IDE: ......................... VS Code, PyCharm
-                      1CG8880ii;;;::::::::;;ii11;i80088f88G80LG888888GC                . LLM/CLI: .. ChatGPT, Claude, Claude Code, Codex
-                    8800880fCf:;;;;::::::;;i1ii:i08f0f8CC8880GC8888888880              . Dev: .............................. GitHub, Git
-                f8888fC880i0CGi:;;;ii;;;;iiii;:t000t0t8Gf8000GL800G88G0888t            
-           G8888888GCfC88118Lf81:;;;;;iiiii;:iG800Gf0t8Gt00CGLG0CC00L00G088G           . Languages.Programming: ............ Python, C++
-         88888888880GG08fiL0Lt00L;:;;iii1i;iL0000GCLG180tC8LCLCLC0GtLffG0008f          . Languages.Computer: ............... SQL, Docker
-       t@8808888088GG080t1GLGifL0Gt11tttttL00GG0G0LCG18Gf18LLfLLGCtttLCCG08G8          . Languages.Real: ...... English, Kazakh, Russian
-      1888880L080C8GG08LtLGfGL1CC80CLLffLC00GC0G00GGCt8GG10C1LC0Li1fCCCCLfLG88         
-      88800888tL8fC0G00fG00CGGf0GL880GG0080CCG0C00GGCf0GGLLC1LLf;tCGCf11tLGGG8         . Hobbies.Software: .. LLMs, RAG, Automation, AI Agents, LangGraph, LangChain
-     888880LfC81t810C0GG0008C0C88Lt880000GLCf0CCGGG0CfG0GGLfii1:tCCt11fLLLLCG08        . Hobbies.Hardware: .. Mechanical keyboards, FIFA
-    i8880000Gt1L1tGGLGG00008L8G0001L0000GCCff0LLCCCGLLf0LGC11;,fCf1fLLLffLLLCG88       . Hobbies.Lifeware: .. Watches, Animated Movies, Tea, 8-Pool, Tańǵa deıın qańǵý
-    888880GCG0LtL1i0iGC0G000L8GGG0LtC0GGLCC1G0fCCCCCfCiGLfGif,1LfLCCLfLLLLLLG008t      
-    80000000CC0CtG;LiCfCCGGGC0GGG0GfLGGCLCL10CfGCCCGfCL;8iGfiiGCGGCCLCLLLCGGCLCC8      - Contact --------------------------------
-   08880GCCG0GC80ffiLt1tLLGCGGG0GG0CLGGLfL1f0LLGCCCCCL01f0;G;1GCCCCCCCCCGCLfLG0088     . Email.Personal: .. nurgissa.sultanmakhmutuly@nu.edu.kz
-   80000080GGGGC00CfC1itfLLGGLG0GG0GLCLfLfiC0fC0CLGCLfCC1GL1iiCLCCCCCCCCCLCGG00888     . LinkedIn: .. https://www.linkedin.com/in/sultannyn-balasy/
-   8880CLLLG0GGCCG8LC1;fffCGLCCGGGGGGCffft1G0fLGCLCCLfLLL1Gf;;ffLCCCGGGGGGG0000888i    . Telegram: ......................... @mysyqlover
-  C8888880GLLLLCLCGGLi:ffLGtLLLCCGG0GffffttGGtfCCLfLfffffffCi,ftLCGG0GGCLfftt11ttft    
-  88880000080CCtffLtti:tfLtfLLLLCCG0LtfLfttCG1ftLffttttttttt1.;LCGGLt111111tt1tttf1    
-  8888800000000f:1i;i1,fttfffffLLCGC1tLLfttL0itt1f11111iiiiii,.Lt1111tfffftttttt1f:    
-  88888880008000::iiti::i11tttffLCL1tLCCftff011t1tt1111ii;;:,,.ii1tttttfftt111111f,    
- 888888888888880:;i;1tt;,;i1tttfft1fCCCGLtff0tit1iiii;;::,,,,..:i1ttfttttt1111111f     
- :CfLLLLLLCG08880:;tf1ii,.:;ii1tt1tfLfGCftttf1ittffffttLLLLLf1,,1tttttt111iiii1t1L     
-  Cfffffft11ii1f0f;tff1ii,.,::;ii111tffftffLLCGGG00GG088000GGCttftt11iiiiiiiii1111     
-  1tfffffftt1ttttLCLLLLLLCLfLLfffLLCCCCGCCGCCCCCCLLLCCfLLLfffLLCft11iiiiiiii111111     
-  ,f1111111ttttttfffLLCCCGGGGGGGGGGCCLLLfffttttttt;:::i11tttt11111ii;;;;;ii11t111;     
-   ti;;:::::;;iii1ttfffLLLCLCLCCLfft11iiiiiii1i:,,,:1tt1111iii;;;;;;;;;;;i11t1iit      
-   ,1;::,,,,:;;iiii1ii1tt1111iii;;;;;;;ii;;;:,,,:ifft1iiii;;;;;;:::;;;;;;;iii;ii1      
-    1;ii;:;;;;iiiii;;:;;;::::,,,,::;;;;;:,,..,;1ffttt1i;;::::::::;;iii1111ii;;it       
-    .1;tt1iiii;;;;;;::::,,,,,,,:::;;::,,...,i1i;;;::::::::::::::::;;;;iii;;:;;1        
-     ,;:;i;;;;::::,,,,,,,,,,::::,,,,,....,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,::         
-      ,,,,,,,,,,,,.....,,::,,,,,,......,,,,,,,,,,,..........................           
+                                                                                                       
+                                  ,iitf1CCC00GLffLL1;                                                  
+                               10CLt111ffti;;;:::;itCGC                                                
+                              80ttt1i;::::::;;;;::;;i11LL                                              
+                            f8f1i;:;;:::::::::::;;;;;;;;iLG;                                           
+                           1011;::::::::::::::::::::::::;:;fL;                                         
+                           Gi1::::,:i1i;;;;::::::,,:,,::::;:;1C                                        
+                          0i;;:::::iCfLftttt1;:,:,,:,,,,,,::;;1G                                       
+                          0:;::,:;;:;:1tfff1:,,,,,,,,,,,,,,,,:;i8                                      
+                         01;:,,,,,,,,,,,,,,,,,,,,,,,,,,i.,,,,,;:8                                      
+                         8;;:,,,,,,,,,,,.;i,.,,,,,,,,.,;:..,,,;:8                                      
+                         8;::,,,,,,,,,,.t880i,,,,,,,,:ftLL;.,,::8                                      
+                         8L:,,i;,,,,,,:LtfLffCt::iLGGGGCLff,,,,:G                                      
+                          8i,;0LLLLLfii:.,,,,,ifi::i1tttttfi,::;C                                      
+                           8,iGtft11i;i;::;1;;:1i;,,:1i1ttf188GG                                       
+                            L;0f1i1;,,,,:;iii1i:,,,:i11tttffG08L                                       
+                             8GL1ifi,,,;fLCLG00CLffft1tt11fi;011                                       
+                             L8fft11ffLCCCLLCGGGGCCf11iiiiC,.,:t                                       
+                              G81t1i1ffLCCfLLGGGCLftti;;;if...f                                        Nurgissa (Melbournn) ----------------------------------
+                               10ii1111tti;i;i1tft111i;;;;f...;                                        . OS: ............................ Linux, Windows
+                                ;L1;;;;::,,,,,,,,,::;;:::;tt..:                                        . Uptime: .............................. 22 years
+                                  L;:::,,.......,,::::::;iift:ti1,                                     . Host: .. Nazarbayev University / DevHouse / Ramzur Systems
+                                  it;:::,,,,,,,,,::;;;;;;i11188G888888Gfi                              . Kernel: ........................ AI/ML Engineer
+                               :1GCii;;::;:::::::;;;;;;i11t;C888Cf888888888Gi                          . About: ......... NLP, LLMs, multi-agent systems
+                           CG00888fii;;;:;;::::;;;;;;11111;t8G808LC88G08fCf8888888CC                   . IDE: ......................... VS Code, PyCharm
+                        C88G0888G10;i;;;;;:::::::;;i1111i:f80f8f80t08008f0f88888888888                 . LLM/CLI: .. ChatGPT, Claude, Claude Code, Codex
+                      088Gf08881t0CL:i;;;iii;;:;;ii1iii;:L00Gt8108fL80G0GGf8080C088G0888               . Dev: .............................. GitHub, Git
+                 8888880fff888tiG8i8f:;;;iiiiiiiiiiii;:i0000Lt8i00Lt80GGGLC00CL080f088088              
+            L8888888888GCff08fi100iG8C::;;;;iiiiiiii:;C8000GLf0i00C100CLCfGCLLG0Ct0GLC0088i            . Languages.Programming: ............ Python, C++
+          8888888888880CCG0801iCGGiCCG0i::;;i1111i;;f00G00CGfC0i00G1C8LLCfCLLGGL1CttLGGG088            . Languages.Computer: ............... SQL, Docker
+         8888G08888G88GCC008L11GLGtiCCG0C11111ttttLG00GG0G0CLC0;80Gt18LLfLLLCGL1t1fCLLC08008           . Languages.Real: ...... English, Kazakh, Russian
+        8888880fG880C80CG000ttL0fC0itLG8GCCCLLftfL000GC0G08GCCGi80GGi0GttCCGGfi1tCLLCGCLtL081          
+       888888888tf88fC8CG08CfLGGCL0ff0CC88GCCLLGG080LCG0C00GGCG180G0fL8iLCC0titLCCCCt1i1CGG08          . Hobbies.Software: .. LLMs, RAG, AI Agents, LangGraph, LangChain
+      G8888GfL088f;88;0GG00LG0000L0CC08ff888000000CLGL0GCGGGG0CfG0GGGt0ifffi;tCGCL1i1fLCLLGG8C         . Hobbies.Hardware: ........ Mechanical keyboards
+      8888888Ct1f8L:00t0L0GG00808C00G8881f8800G00CLCLL0LCGCGG0CLL0GGGCf1;1i:fCGfiifCCLffLLCGG8         . Hobbies.Lifeware: .. Watches, Animated Movies, Tea, 8-Pool, FIFA
+     088800GG00Lt1fL;GG0f0C000008CG8G000CiC0000GCCCLt00fLCCGCGLCt0GCCGtfi;,LGf1tLCCLffLLLLLCGG8        
+     88880GGCCC0Gffff:GCi0L000000LG0GG0G0ttC0GGCLGCtt0CfLCCGCGLLLi8tCG1t1,tLtfCGCLfLLLfLfffC0888       - Contact --------------------------------
+    i800G000G0GL80tfGt:8:0fGCGGG0f0GGGGG0LtLG0CCLGCiC0LfCCCGGGLf0:C0i0L;1iCCGGCCCLLLLLLLLGGCLfL88      . Email.Personal: .. nurgissa.sultanmakhmutuly@nu.edu.kz
+    880GCCLCG000L08C10:L1L1fLLCCGL8C0GGG0GfLGGCLLCfi00fLGGLGCGCf0f;8f;8;it0GGCCCCCCLLLCGGLttLG0G@      . LinkedIn: .. https://www.linkedin.com/in/sultannyn-balasy/
+    8888800GCCCG0C080tC1GtitfLLGCG0LG0GG00CLCGCfLfit0GfCGGfGCCCf0Ct18iff:LCCCCCCCCCCCCCLffCGG0088f     . Telegram: ......................... @mysyqlover
+   18GLLLCG0800GG0CG08fLCt;tfLLLC0LLGGGGG0GLGLLfLt1L0GfCGGfCGCCfCLC1L0iL:fLCCCCCCLLCCCLCGGGGG00888     
+   88880GLftfC0GGGCGGG8fGt:ffLLC0fCLCGCGGG0GCLffft1C0CtLGCCLGLLffLLL1GCt,1ffLLCCGCGGGGGGGG0GG00888     
+   888888888GtfLLCCLCG0CLt,fffL0tfLLLCCGGG00LfffLt1C8LtfCCCfLLLffLfLffGL,:LtLCCGGG00GGCCLft11111tfi    
+  i888800000080CCftLtCCft1,tfLGttLLLLCCCCG0CtffLfttL0f1LtCffffftttffffff;.ffLG0GGLtt1i1i1111111ttL:    
+  88880000000000G01ifti11f,ftLttLfLLLLLLC0GttfLLftff0LifttLttt1t1111111ii.,GCLft111ttfffftftt1111C     
+  8888800000000000C,;iiiif,it1tffffffLLCGCt1tCCLf1ft0Litf1tt111111i1iii;;,.fii1ttttttffftt1111111L     
+  88888888880088880;:;i1f1i::11ttftffLLCLt1fCCCCftffGCi1ttttt11111ii;::,,..ii111tttttfttt11111111f     
+ 188888888888888080,;i;;tftt,,1i11tttfff1tfCCCGGftfLC0i1tt1i1i;;;::,,,,,...:iitttfttttttt111i1111L     
+  0tffffLLLLC0088888::tff11ii..;iii1tttttfLLLCGCfttttL;i1tttfftttffLLLLfti,,i1tfttttt1111iiii11t1L     
+  tLfttftttt1111tLG80,;tLf1;i;..,::;;ii1111tffftt1ttffCGGGG000GG00000000Gfi;fttt11111iiiiiiii111t;     
+  :ftfffffftttiiii1tfLLLffLfff1iii11111tttffLLLLLCCCGGGGGGCLLLG00000GCLLLLCGLft111iiiiiiiiii1111t:     
+   L1tttttttttffffffLfLLLCCLLCCGCGGGCCCCGCGGGCGCCCCCLLLLLLffLft1;i1tttttffffttt11i;;;;;;iii1111if      
+   t11iiiii11111111tttfffLLCCCCGCGGGGGGGGCLLftLfttt1tttttt1;,,,;1ttt1t111ii11iiii;;:;;;ii11111iif      
+   ,fi;::::::::;;iiiitttttfffLLCLCLLCLfffft11iiiiiiiiiii:,..,ittt11111ii;;;;;;;:;:;;;;;i1111iiii1      
+    ti;::,,,,,::;;;iiii1ii11tttttt11ii;;;;;;;;;;;;;;;:,..,;tLft11iiiii;;;;;;::::;;;;;;;;;i1;;i;1       
+    ,t;i;;::;;;;;;iiiiii;;;;;;;;;:::::,::::;;i;;;;:,...:1fLffftt1i;;;::::::::;:;;iii1iiiii;;;;i1       
+     i;it1i;iiiiii;i;;;;;:::::,,,,,,,,::;;;;;::,,...,;t1iiiiii;;;::::::::::::;;;;ii1111ii;:;;i1        
+      i;;1ttiiii;;;;;;:::::,,,,,,,,:::::::::,,....,:ii;;;::::,,:::::::::::,::::::::::::::::;;;         
+      .;:::;::;;:::::,,,,,,..,,,:::::,,,,,,.....,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,          
+       .:,,...,,,,,,,.....,,,:::,,,,,,,,......,,,,,,,,,,,,,..............................              
 ```
 -->
