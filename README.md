@@ -20,7 +20,7 @@
                          ;81t11fLLCfLLGGGLft1i;;t;..t                                  . Uptime: .............................. 22 years
                            0iiiiii;:;::iiiiii;;;i1..:                                  . Host: .. Nazarbayev University / DevHouse / Ramzur Systems
                             ii:::,,.,..,,,:::::;;ti.:                                  . Kernel: ........................ AI/ML Engineer
-                             L:::,,.,...,,:::::;i1108088G1;                            . About: .. Experienced & deeply interested in Natural Language Processing (NLP), Large Language Models (LLMs), multi-agent systems, and AI engineering.
+                             L:::,,.,...,,:::::;i1108088G1;                            . About: ......... NLP, LLMs, multi-agent systems
                           ,;f1i;;:::,,,,:;;;;;i11ii888f888888881                       . IDE: ......................... VS Code, PyCharm
                       1CG8880ii;;;::::::::;;ii11;i80088f88G80LG888888GC                . LLM/CLI: .. ChatGPT, Claude, Claude Code, Codex
                     8800880fCf:;;;;::::::;;i1ii:i08f0f8CC8880GC8888888880              . Dev: .............................. GitHub, Git
@@ -31,7 +31,7 @@
       1888880L080C8GG08LtLGfGL1CC80CLLffLC00GC0G00GGCt8GG10C1LC0Li1fCCCCLfLG88         
       88800888tL8fC0G00fG00CGGf0GL880GG0080CCG0C00GGCf0GGLLC1LLf;tCGCf11tLGGG8         . Hobbies.Software: .. LLMs, RAG, Automation, AI Agents, LangGraph, LangChain
      888880LfC81t810C0GG0008C0C88Lt880000GLCf0CCGGG0CfG0GGLfii1:tCCt11fLLLLCG08        . Hobbies.Hardware: .. Mechanical keyboards, FIFA
-    i8880000Gt1L1tGGLGG00008L8G0001L0000GCCff0LLCCCGLLf0LGC11;,fCf1fLLLffLLLCG88       . Hobbies.Lifeware: .. Watches, Animated Movies, Tea, Pool, Tańǵa deıın qańǵý
+    i8880000Gt1L1tGGLGG00008L8G0001L0000GCCff0LLCCCGLLf0LGC11;,fCf1fLLLffLLLCG88       . Hobbies.Lifeware: .. Watches, Animated Movies, Tea, 8-Pool, Tańǵa deıın qańǵý
     888880GCG0LtL1i0iGC0G000L8GGG0LtC0GGLCC1G0fCCCCCfCiGLfGif,1LfLCCLfLLLLLLG008t      
     80000000CC0CtG;LiCfCCGGGC0GGG0GfLGGCLCL10CfGCCCGfCL;8iGfiiGCGGCCLCLLLCGGCLCC8      - Contact --------------------------------
    08880GCCG0GC80ffiLt1tLLGCGGG0GG0CLGGLfL1f0LLGCCCCCL01f0;G;1GCCCCCCCCCGCLfLG0088     . Email.Personal: .. nurgissa.sultanmakhmutuly@nu.edu.kz
